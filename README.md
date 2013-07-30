@@ -1,4 +1,4 @@
-Application useful for testing calculation RegEx
+Application useful for testing RegEx
 -
 -----------------------------------------
 Aplicacion util para la comprobacion de RegEx
